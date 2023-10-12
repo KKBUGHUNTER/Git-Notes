@@ -1,4 +1,4 @@
-**Week 1: Introduction to Version Control and Git**
+# **Week 1: Introduction to Version Control and Git**
 
 **Day 1: Introduction to Version Control**
 - What is version control?
@@ -31,7 +31,7 @@
 - Working collaboratively on a Git project
 - Forking and creating pull requests
 
-**Week 2: Intermediate Git Concepts**
+# **Week 2: Intermediate Git Concepts**
 
 **Day 1: Advanced Git Log and History**
 - Viewing commit history
@@ -59,7 +59,7 @@
 - Overview of Git GUI tools
 - Popular Git extensions
 
-**Week 3: GitHub and Collaborative Work**
+# **Week 3: GitHub and Collaborative Work**
 
 **Day 1: Introduction to GitHub**
 - What is GitHub?
@@ -87,7 +87,7 @@
 **Day 7: Collaboration on GitHub**
 - Collaborative features like project boards and discussions
 
-**Week 4: Advanced Topics and Tips**
+# **Week 4: Advanced Topics and Tips**
 
 **Day 1: Git Submodules**
 - Working with Git submodules
